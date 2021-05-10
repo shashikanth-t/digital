@@ -1,0 +1,22 @@
+manual commands:
+
+1)pull base image
+2)run container
+3)enter into container
+4)update container,
+5)install apache2,git
+6)go to working loc (/var/www/html)
+7)git clone url
+8)start apache2 services
+9)execute through browser
+
+
+using docker file :
+
+1)clone your git repo
+2)create docker file
+3)place along with localrepo/proj/website
+4)build docker file  //docker build . -t new_dockerfile
+5)run docker images command
+6)Run docker image n check through browser
+
